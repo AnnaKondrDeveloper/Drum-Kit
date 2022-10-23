@@ -1,3 +1,5 @@
-# Drum-Kit
-Simple Drum Kit using JavaScript <br>
-Part of Udemy course "The Complete 2022 Web Development Bootcamp"
+# Drum Kit
+This works is that we've got a number of keys here that represent different drums in
+a typical drum set.
+And when you click on any of these buttons then you'll get the corresponding sound of the drum.
+And in addition you can also use the keys on the keyboard.
