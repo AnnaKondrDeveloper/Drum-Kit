@@ -10,4 +10,4 @@ Used JavaScript event handlers, animations and audio files for the drum sound. A
 <h2>Screenshots</h2>
 <br>
 
-![image](https://github.com/AnnaKondrDeveloper/Pulse/raw/main/img/homepage.png)
+![image](https://github.com/AnnaKondrDeveloper/Drum-Kit/raw/main/images/scrin.png)
